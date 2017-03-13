@@ -43,7 +43,7 @@ or
     86.13276588185731
 
 ## Check that SimCADO is delivering the correct fluxes
-## http://www.astronomy.ohio-state.edu/~martini/usefuldata.html
+[http://www.astronomy.ohio-state.edu/~martini/usefuldata.html](http://www.astronomy.ohio-state.edu/~martini/usefuldata.html)
 
     >>> import simcado as sim
     >>> from astropy import units as um
