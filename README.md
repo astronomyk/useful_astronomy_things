@@ -1,6 +1,6 @@
 # Kieran's Astronomy Page
 
-<img src="me.png" width="48">
+<img src="me.png" width="200">
 
 [My Curriculum Vitae][CV.md]
 
