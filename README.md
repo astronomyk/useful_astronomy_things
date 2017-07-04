@@ -1,6 +1,6 @@
 # Kieran's Astronomy Page
 
-![Pic of me look like a smug git][me.png]
+<img src="me.png" width="48">
 
 [My Curriculum Vitae][CV.md]
 
