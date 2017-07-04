@@ -85,7 +85,13 @@ On the scientific front I have used the SimCADO package to generate mock observa
 
 --------------------
 
-Here is a list, as much me as for you, to keep track of everything I've done during my PhD
+--------------------
+
+The following is a list, as much for me as for you, just to keep track of everything I've done during my PhD
+
+--------------------
+
+--------------------
 
 ## Talks
 
