@@ -1,4 +1,11 @@
 # Kieran's Astronomy Page
+-------------------------
+
+I currently work at the University of Vienna, programming an instrument data
+simulator for the MICADO camera on the ELT - [SimCADO](www.univie.ac.at/simcado). 
+
+I'm using SimCADO to look at the feasibility of various ELT/MICADO science cases
+related to star formation in the early and nearby universe.
 
 <img src="me.png" width="200">
 
