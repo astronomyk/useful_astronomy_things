@@ -62,25 +62,32 @@ On the scientific front I have used the SimCADO package to generate mock observa
 
 ## Outreach activities
 - 2012 - 2016 
+  
   [The international Astronomical Youth Camp](www.iayc.org)
   as President, General Organiser, and Group leader
   
 - 2015 Mar - Vienna
+  
   Sonnenfinsternis, Urania
 
 - 2015 Oct - Vienna
+  
   Lange Nacht der Museen, Urania
   
 - 2016 Apr - Vienna
+
   Lange Nacht der Forschung, Sternwarte
   
 - 2016 May - Vienna
+
   Mercury Tranist, Urania
 
 - 2016 Nov - Vienna
+
   WAA - Wiener Astronomische Arbeitsgruppe General Versammlung
 
 - 2017 July - Alpbach
+
   ESA Summer school tutor
 
 
@@ -99,71 +106,65 @@ The following is a list, as much for me as for you, just to keep track of everyt
 
 ### Conferences
 - 2015 Oct - STEEL, Erice
+
   SimCADO - An end-to-end instrument data simulator for MICADO on the E-ELT
   
 - 2015 Oct - ADASS, Sydney
+
   Lightning talk on Simcado
   
 - 2016 April
+
   ESO Instrument Simulator workshop
   http://www.eso.org/sci/meetings/2016/simu2016.html
   
+- 2017 February
+
+  SimCADO 2-Day Hack-athon
+  
 - 2017 May
+
   A* PSF Meeting
   
 - 2017 June - Prag
-  EWASS ELT session
-  Presentation on Simcado and IMF variations
+
+  EWASS ELT session - Presentation on Simcado and IMF variations
 
 ### Uni
 - 2015 March - Phd Seminar
-- 2015 June - Zeilinger E-ELT Seminar
-- 2016 Jan - FOEP
+- 2015 June - 1 hour E-ELT Seminar
+- 2016 Jan - PhD Topic Public Presentation
 - 2017 Jan - Progress Report
 - 2017 May - 2 hour E-ELT seminar
 
 
 ### Teaching
-- 2014 May -> June   - Master Instrumentation Tutorial (4x 3hr)
-- 2016 April -> June - Bachelor Spectroscopy Tutorial (8x 5hr)
-- 2017 April -> June - Bachelor Spectroscopy Tutorial (8x 5hr)
+- 2014 May -> June   - Master level:   Instrumentation Tutorial (4x 3hr)
+- 2016 April -> June - Bachelor level: Spectroscopy Tutorial (8x 5hr)
+- 2017 April -> June - Bachelor level: Spectroscopy Tutorial (8x 5hr)
 
 
 ## Writings
 
 ### Proceedings
 
-- 2015 Oct - ADASS Sydney
-  SimCADO - An end-to-end instrument data simulator for MICADO on the E-ELT
+- 2015 Oct - ADASS 25, Sydney - "SimCADO - An end-to-end instrument data simulator for MICADO on the E-ELT"
   
-- 2016 June - SPIE, Edinburgh
-  SimCADO - an instrument data simulator package for MICADO at the E-ELT
+- 2016 June - SPIE, Edinburgh - "SimCADO - an instrument data simulator package for MICADO at the E-ELT"
   
-- 2016 Oct - ADASS, Trieste
-  SimCADO - a python package for simulating detector output for MICADO at the E-ELT
+- 2016 Oct - ADASS 26, Trieste - "SimCADO - a python package for simulating detector output for MICADO at the E-ELT"
 
 
 ### Posters
 
-- 2015 Apr - Oxford
-  The MICADO IDS - An Instrument Data Simulator for the E-ELT first-light instrument MICADO
-
-- 2015 June - Garching - EIRO forum
-  SimCADO - An Instrument Data Simulator for the E-ELT first-light instrument MICADO
-
-- 2015 Oct - Sydney - ADASS
-  Updated: SimCADO - An Instrument Data Simulator for the E-ELT first-light instrument MICADO
-
+- 2015 Apr - Oxford - "The MICADO IDS - An Instrument Data Simulator for the E-ELT first-light instrument MICADO"
+- 2015 June - Garching - EIRO forum - "SimCADO - An Instrument Data Simulator for the E-ELT first-light instrument MICADO"
+- 2015 Oct - Sydney - ADASS - "Updated: SimCADO - An Instrument Data Simulator for the E-ELT first-light instrument MICADO"
 - 2016 Apr - Vienna - Lange Nacht der Forschung
   - Das E-ELT: Europas neues Riesenteleskop
   - MICADO: Die Nahinfrarotweitwinkelkamera des europäischen Riesenteleskops
-
-- 2016 June - SPIE, Edinburgh
-  SimCADO: A python package to simulate images for the E-ELT's NIR camera: MICADO
-
-- 2016 Oct - ADASS, Trieste
-  SimCADO - a python package for simulating detector output for MICADO at the E-ELT
-
+- 2016 June - SPIE, Edinburgh - "SimCADO: A python package to simulate images for the E-ELT's NIR camera: MICADO"
+- 2016 Oct - ADASS, Trieste - "SimCADO - a python package for simulating detector output for MICADO at the E-ELT"
 
 
 ## Conference Attendance
