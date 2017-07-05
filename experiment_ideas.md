@@ -207,16 +207,15 @@ KPNO  B  23.0             9.2e-07           2.68e-32           4.16e-18
 
 Email from Ric
 
-    I think it would be very motivating to get some feedback from the science team (hence my other email to you and Renato). And many of them also would be very interested to know how PSF reconstruction is doing. In this context I would like to propose a test.
-    simple version:
-    - you simulate a PSF and send it to Kieran who 'observes' it realistically (including subtracting a sky or dark frame). I would suggest an 11mag A-star (i.e. R=11mag, H=11mag), and Kieran should simulate it with the 1.5mas scale and a 1% narrow band filter (so it doesn't saturate) around 1.64um for a 2sec integration. He could do this at several random positions (wrt a pixel centre).
-    - at the same time, you can reconstruct the PSF at the same wavelength.
-    - you give your reconstruction to Kieran and ask him to compare it with his observation.
-    - this would highlight some additional things, like how to best centre the reconstructed PSF with the observed one, how far out one really will be able to measure the PSF halo/wings, how to get the zero-level of the observation, to to scale the reconstruction to match the observation, how to compare them, etc.
-    - repeat the whole process with a fainter star, say 15mag, which can be observed in 2sec with the 1.5mas scale in the broad-band H filter.
-    - possibly repeat this faint star experiment but generate 30 2sec-PSFs (each with a time evolved phase screens, so that they are slightly different) and let Kieran use them to generate a 60sec exposure. Then compare this to the averaged reconstruction.
+I think it would be very motivating to get some feedback from the science team (hence my other email to you and Renato). And many of them also would be very interested to know how PSF reconstruction is doing. In this context I would like to propose a test.
+simple version:
+- you simulate a PSF and send it to Kieran who 'observes' it realistically (including subtracting a sky or dark frame). I would suggest an 11mag A-star (i.e. R=11mag, H=11mag), and Kieran should simulate it with the 1.5mas scale and a 1% narrow band filter (so it doesn't saturate) around 1.64um for a 2sec integration. He could do this at several random positions (wrt a pixel centre).
+- at the same time, you can reconstruct the PSF at the same wavelength.
+- you give your reconstruction to Kieran and ask him to compare it with his observation.
+- this would highlight some additional things, like how to best centre the reconstructed PSF with the observed one, how far out one really will be able to measure the PSF halo/wings, how to get the zero-level of the observation, to to scale the reconstruction to match the observation, how to compare them, etc.
+- repeat the whole process with a fainter star, say 15mag, which can be observed in 2sec with the 1.5mas scale in the broad-band H filter.
+- possibly repeat this faint star experiment but generate 30 2sec-PSFs (each with a time evolved phase screens, so that they are slightly different) and let Kieran use them to generate a 60sec exposure. Then compare this to the averaged reconstruction.
 
-    This, I think would provide a strong link to the science team, since they would see something that they can identify with.
+This, I think would provide a strong link to the science team, since they would see something that they can identify with.
 
-    If you are feeling adventurous, I would then propose a blind test. Basically do the same thing, but Yann do the AO simulations (which might include a different subset of ELT features & effects than you do) and send the PSF to Kieran and the WFS/DM data to Roland...
-    
+If you are feeling adventurous, I would then propose a blind test. Basically do the same thing, but Yann do the AO simulations (which might include a different subset of ELT features & effects than you do) and send the PSF to Kieran and the WFS/DM data to Roland...
