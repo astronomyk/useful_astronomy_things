@@ -8,6 +8,7 @@ I'm using SimCADO to look at the feasibility of various ELT/MICADO science cases
 related to star formation in the early and nearby universe.
 
 <img src="me.png" width="200">
+<img src="images/SimCADO_Logo.png" width="400">
 
 [My Curriculum Vitae](CV.md)
 
