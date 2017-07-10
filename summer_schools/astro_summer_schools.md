@@ -10,7 +10,6 @@ For information on other school, masters/PhD programmes and general astronomical
 
 ## June
 
---------
 
 ### 5th EIROforum School on Instrumentation
 
@@ -18,13 +17,14 @@ For information on other school, masters/PhD programmes and general astronomical
 
 **Dates**: 19-23 June 2017
 
-**Location**: European XFEL
+**Location**: European XFEL, Schenefeld, Germany
 
 **More Information**: [https://indico.cern.ch/event/588382/](https://indico.cern.ch/event/588382/)
 
-## July
+----------
 
---------
+
+## July
 
 ### International Astronomical Youth Camp
 
@@ -36,7 +36,7 @@ For information on other school, masters/PhD programmes and general astronomical
 
 **More Information**: [www.iayc.org](www.iayc.org)
 
---------
+----------
 
 ### Summer School Alpbach 2017
 
@@ -48,11 +48,11 @@ For information on other school, masters/PhD programmes and general astronomical
 
 **More Information**: [http://www.summerschoolalpbach.at/](http://www.summerschoolalpbach.at/)
 
+----------
 
 
 ## December
 
---------
 
 ### 5th ESO AStronomy Winter Camp
 
@@ -63,3 +63,5 @@ For information on other school, masters/PhD programmes and general astronomical
 **Location**: Aosta Valley, Italy
 
 **More Information**: [http://www.sterrenlab.com/camps/eso-astronomy-camp-2017/](http://www.sterrenlab.com/camps/eso-astronomy-camp-2017/)
+
+----------
