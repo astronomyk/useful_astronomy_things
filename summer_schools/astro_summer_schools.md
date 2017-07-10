@@ -5,7 +5,7 @@ This page is intented to list summer school and camps for those at the Pre-Doc l
 ## 2017 Summer schools and camps 
 
 ### June
-
+---
 #### 5th EIROforum School on Instrumentation
 
 **Audience**: Masters, Phd, PostDoc
@@ -20,9 +20,10 @@ This page is intented to list summer school and camps for those at the Pre-Doc l
 
 #### International Astronomical Youth Camp
 
-**Audience**: 
+**Audience**: High School, Bachelor, Masters
 
-Dates:
+**Dates*: 16 July - 5 August
 
+**Location**: El Solitario, Extremadura, Spain 
 
-More Information: [www.iayc.org]()
+**More Information**: [www.iayc.org]()
