@@ -36,6 +36,8 @@ Observing the galaxy
 ## How deep can the IMF be investigated
 Take an IMF and observe it for various distances
 
+http://www.ast.cam.ac.uk/~mike/local_members
+
 Example distances would be
 * 8kpc, the galactic centre
 * 50 kpc, the magellanic clouds
@@ -219,3 +221,14 @@ simple version:
 This, I think would provide a strong link to the science team, since they would see something that they can identify with.
 
 If you are feeling adventurous, I would then propose a blind test. Basically do the same thing, but Yann do the AO simulations (which might include a different subset of ELT features & effects than you do) and send the PSF to Kieran and the WFS/DM data to Roland...
+
+
+
+
+
+------------------------------------------
+Dark Matter
+- Velocity dispersion of halo stars?
+- Velocity dispersion of in dwarf galaxies
+- Lensing
+- Intermediate black hole cases?
